@@ -1,0 +1,10 @@
+﻿<Window x:Class="AntiStressPet.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="AntiStressPet"
+        Height="200" Width="200"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Background="Transparent">
+    <Grid/>
+</Window>
