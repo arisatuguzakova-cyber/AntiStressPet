@@ -1,4 +1,12 @@
 ﻿bin/
 obj/
+publish/
+publish-standalone/
 .vs/
 *.user
+*.suo
+*.bak
+*.full.bak
+*.stub.tmp
+*.xlsx
+*.xlsm
